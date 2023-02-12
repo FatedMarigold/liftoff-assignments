@@ -7,4 +7,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+https://github.com/Jan-23-Liftoff-KC/team-jeremy-group-repo
+
+Most of our work will be found in demo/src/main.
